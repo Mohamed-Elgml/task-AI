@@ -1,2 +1,2 @@
 # task-AI
-stone paper scissors
+2048
